@@ -1,6 +1,8 @@
 # ajping
 Functional testing of AJP connector
 
+Requirement:
+# dnf install perl
 
 Code came from:
 https://www.joedog.org/2012/06/06/ajp-functional-test/
